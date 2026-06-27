@@ -23,5 +23,5 @@
 ---
 
 ### 📫 Как со мной связаться
-* **email:** [rvkem2009@gmail.com]
-* **Kwork:** [https://kwork.ru/user/rvkem2009]
+* **email:** rvkem2009@gmail.com
+* **Kwork:** https://kwork.ru/user/rvkem2009
